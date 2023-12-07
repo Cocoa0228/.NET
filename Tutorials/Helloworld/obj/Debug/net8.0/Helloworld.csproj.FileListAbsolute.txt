@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\bin\Debug\net8.0\Helloworld.exe
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\bin\Debug\net8.0\Helloworld.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\bin\Debug\net8.0\Helloworld.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\bin\Debug\net8.0\Helloworld.dll
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\bin\Debug\net8.0\Helloworld.pdb
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.dll
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\refint\Helloworld.dll
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.pdb
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Helloworld\obj\Debug\net8.0\ref\Helloworld.dll
