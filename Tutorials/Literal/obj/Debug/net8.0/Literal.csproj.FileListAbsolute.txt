@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Literal\bin\Debug\net8.0\Literal.exe
+F:\Workspace\Repository\.NET\Tutorials\Literal\bin\Debug\net8.0\Literal.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Literal\bin\Debug\net8.0\Literal.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Literal\bin\Debug\net8.0\Literal.dll
+F:\Workspace\Repository\.NET\Tutorials\Literal\bin\Debug\net8.0\Literal.pdb
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.dll
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\refint\Literal.dll
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.pdb
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\Literal.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Literal\obj\Debug\net8.0\ref\Literal.dll
