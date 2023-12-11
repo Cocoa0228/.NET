@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Classlib\bin\Debug\net8.0\Classlib.exe
+F:\Workspace\Repository\.NET\Tutorials\Classlib\bin\Debug\net8.0\Classlib.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Classlib\bin\Debug\net8.0\Classlib.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Classlib\bin\Debug\net8.0\Classlib.dll
+F:\Workspace\Repository\.NET\Tutorials\Classlib\bin\Debug\net8.0\Classlib.pdb
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.dll
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\refint\Classlib.dll
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.pdb
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\Classlib.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Classlib\obj\Debug\net8.0\ref\Classlib.dll

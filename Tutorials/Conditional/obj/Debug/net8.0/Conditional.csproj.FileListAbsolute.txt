@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Conditional\bin\Debug\net8.0\Conditional.exe
+F:\Workspace\Repository\.NET\Tutorials\Conditional\bin\Debug\net8.0\Conditional.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Conditional\bin\Debug\net8.0\Conditional.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Conditional\bin\Debug\net8.0\Conditional.dll
+F:\Workspace\Repository\.NET\Tutorials\Conditional\bin\Debug\net8.0\Conditional.pdb
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.dll
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\refint\Conditional.dll
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.pdb
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\Conditional.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Conditional\obj\Debug\net8.0\ref\Conditional.dll
