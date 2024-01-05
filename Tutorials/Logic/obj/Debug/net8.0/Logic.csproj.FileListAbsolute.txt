@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Logic\bin\Debug\net8.0\Logic.exe
+F:\Workspace\Repository\.NET\Tutorials\Logic\bin\Debug\net8.0\Logic.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Logic\bin\Debug\net8.0\Logic.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Logic\bin\Debug\net8.0\Logic.dll
+F:\Workspace\Repository\.NET\Tutorials\Logic\bin\Debug\net8.0\Logic.pdb
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.dll
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\refint\Logic.dll
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.pdb
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\Logic.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Logic\obj\Debug\net8.0\ref\Logic.dll

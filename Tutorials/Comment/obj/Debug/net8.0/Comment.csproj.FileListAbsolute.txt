@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Comment\bin\Debug\net8.0\Comment.exe
+F:\Workspace\Repository\.NET\Tutorials\Comment\bin\Debug\net8.0\Comment.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Comment\bin\Debug\net8.0\Comment.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Comment\bin\Debug\net8.0\Comment.dll
+F:\Workspace\Repository\.NET\Tutorials\Comment\bin\Debug\net8.0\Comment.pdb
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.dll
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\refint\Comment.dll
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.pdb
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\Comment.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Comment\obj\Debug\net8.0\ref\Comment.dll

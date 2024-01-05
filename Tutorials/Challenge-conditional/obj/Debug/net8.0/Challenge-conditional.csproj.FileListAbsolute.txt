@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\bin\Debug\net8.0\Challenge-conditional.exe
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\bin\Debug\net8.0\Challenge-conditional.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\bin\Debug\net8.0\Challenge-conditional.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\bin\Debug\net8.0\Challenge-conditional.dll
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\bin\Debug\net8.0\Challenge-conditional.pdb
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.dll
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\refint\Challenge-conditional.dll
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.pdb
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\Challenge-conditional.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Challenge-conditional\obj\Debug\net8.0\ref\Challenge-conditional.dll
