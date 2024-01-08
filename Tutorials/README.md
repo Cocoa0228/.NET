@@ -9,4 +9,4 @@
 # 5. Comment
 # 6. Challenge-conditional
 # 7. Logic
-# 8. Challenge-logic (TBD)
+# 8. Challenge-logic

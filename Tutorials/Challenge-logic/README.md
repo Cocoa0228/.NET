@@ -2,4 +2,4 @@
 # .NET 8.0.100
 #
 # Tutorials
-# > Challenge-logic (TBD)
+# > Challenge-logic
