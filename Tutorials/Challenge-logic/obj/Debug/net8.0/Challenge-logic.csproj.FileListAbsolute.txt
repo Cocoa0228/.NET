@@ -1,0 +1,15 @@
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\bin\Debug\net8.0\Challenge-logic.exe
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\bin\Debug\net8.0\Challenge-logic.deps.json
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\bin\Debug\net8.0\Challenge-logic.runtimeconfig.json
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\bin\Debug\net8.0\Challenge-logic.dll
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\bin\Debug\net8.0\Challenge-logic.pdb
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.AssemblyInfoInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.AssemblyInfo.cs
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.csproj.CoreCompileInputs.cache
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.sourcelink.json
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.dll
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\refint\Challenge-logic.dll
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.pdb
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\Challenge-logic.genruntimeconfig.cache
+F:\Workspace\Repository\.NET\Tutorials\Challenge-logic\obj\Debug\net8.0\ref\Challenge-logic.dll
